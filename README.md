@@ -537,10 +537,7 @@
                     <td>20</td>
                     <td>21</td>
                     <td>22</td>
-                </tr>
-                    <td>29</td>
               </tr>
-              <tr>
                  <tr>
                     <td>23</td>
                     <td>24</td>
@@ -551,12 +548,13 @@
                     <td>29</td>
                  </tr>
               <tr>
-                     <td></td>
+                     <td>30</td>
                     <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
+                <td></td>
               </tr>
               
 </table>
